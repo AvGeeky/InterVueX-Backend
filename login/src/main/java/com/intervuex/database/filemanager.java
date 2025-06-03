@@ -1,11 +1,11 @@
-package com.securvote.database;
+package com.intervuex.database;
 
 import java.io.*;
 import java.security.PrivateKey;
 
 public class filemanager {
 
-    private static final String DIRECTORY = "privateKeys"; // Directory to save files
+    private static final String DIRECTORY = "/"; // Directory to save files
 
     // Static method to create the directory if it doesn't exist
     private static void createDirectory() {
