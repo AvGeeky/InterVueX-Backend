@@ -29,53 +29,8 @@ The project is currently in active development. We have completed several key fe
 - Conduct extensive testing and bug fixing
 - Prepare comprehensive documentation and user guides
 
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
+## View Backend Code
    ```bash
-   git clone https://github.com/techieRahul17/InterVueX.git
-   cd InterVueX
+   login/src/main/java/com/intervuex
    ```
 
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open your browser and navigate to `http://localhost:3000` to see the application in action.
-
-## Usage
-
-- Candidates can register, log in, and access their dashboard to view upcoming interviews, past interviews, and job applications.
-- Interviewers can register, log in, and access their dashboard to manage job listings, schedule interviews, and review candidate applications.
-- Both candidates and interviewers can join real-time interview rooms with video and chat capabilities.
-- Candidates can use the training mode to practice interviews and receive AI-powered feedback.
-
-## Contribution Guidelines
-
-We welcome contributions from the community to help improve InterVueX. To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes and commit them with descriptive commit messages.
-4. Push your changes to your forked repository:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Create a pull request to the main repository.
-
-Please ensure that your code follows our coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
